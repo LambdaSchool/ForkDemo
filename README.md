@@ -5,7 +5,7 @@ Create github account.
 Install git:
 	debian: sudo apt-get install git
 clone repository:
-	cd && git clone https://github.com/<Your login name>/ForkDemo
+	cd && git clone https://github.com/"Your login name"/ForkDemo
 Update README.md:
 	vi README.md
 git add README.md
