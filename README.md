@@ -8,13 +8,13 @@ Provides a starting point for demonstrating how to fork, modify, and submit a pr
 `cd && git clone https://github.com/"Your login name"/ForkDemo`
 4. Update README.md:  
 `vi README.md`
-5. Add change to README.md with git
+5. Add change to README.md with git  
 `git add README.md`
-6. Create commit
+6. Create commit  
 `git commit -m "Commit message"`
-7. Push your code
+7. Push your code  
 `git push origin master`
-8. Create new pull request
+8. Create new pull request  
 
 Fork this demo
 Modify this "README.md" file to provide a better description of this "Hello World" project. (This is a simple C application that builds a "helloworld" command line application. Using printf function and stdio header)
