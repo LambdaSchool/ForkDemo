@@ -3,17 +3,17 @@ Provides a starting point for demonstrating how to fork, modify, and submit a pr
 
 1. Create github account. 
 2. Install git:  
- - debian: sudo apt-get install git
+	- debian: `sudo apt-get install git`
 3. clone repository:  
- - cd && git clone https://github.com/"Your login name"/ForkDemo
+`cd && git clone https://github.com/"Your login name"/ForkDemo`
 4. Update README.md:  
- - vi README.md
+`vi README.md`
 5. Add change to README.md with git
- - git add README.md
+`git add README.md`
 6. Create commit
- - git commit -m "Commit message"
+`git commit -m "Commit message"`
 7. Push your code
- - git push origin master
+`git push origin master`
 8. Create new pull request
 
 Fork this demo
